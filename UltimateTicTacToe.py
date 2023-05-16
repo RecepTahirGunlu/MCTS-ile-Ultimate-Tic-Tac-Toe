@@ -244,7 +244,7 @@ class Tahta:
             
             except :
                 print('Gecersiz girdi / illegal hamle ')  
-
+    # Tahtayı Çiz
     def __str__ (self ):
 
         tahta_string = '┏━━━━━━━┳━━━━━━━┳━━━━━━━┓\n┃'
@@ -265,8 +265,4 @@ class Tahta:
             tahta_string = "\n ------------------------\n      o'nun sirasi: \n ------------------------\n\n" + tahta_string
         return tahta_string
 
-if __name__ == '__main__':
 
-    tahta = Tahta()          
-    tahta.game_loop()
-             
