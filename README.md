@@ -35,5 +35,6 @@ Nasıl Kullanılır?
 Not: Bilgisayarın zorluğunu arttırmak için `mcts.py` dosyası içindeki MCTS classının arama fonksiyonunda yer alan iteration değişkenini değiştirebilirsiniz. Bilgisayarın zorluğu ile oynama süresi doğru orantılıdır.
 
 Dilerseniz alttaki linkten exe dosyası indirerek oynayabilirsiniz.
+
 [Download Exe File](https://github.com/RecepTahirGunlu/MCTS-ile-Ultimate-Tic-Tac-Toe/blob/master/download%20exe/main.exe)
 
