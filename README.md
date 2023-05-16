@@ -33,3 +33,6 @@ Nasıl Kullanılır?
 5. Oyun devam ederken, MCTS algoritması kullanılarak bilgisayarın en iyi hamleleri belirlenecektir.
 6. Oyun, bir oyuncunun kazanması, berabere kalması veya sona ermesiyle sonuçlanana kadar devam eder.
 Not: Bilgisayarın zorluğunu arttırmak için `mcts.py` dosyası içindeki MCTS classının arama fonksiyonunda yer alan iteration değişkenini değiştirebilirsiniz. Bilgisayarın zorluğu ile oynama süresi doğru orantılıdır.
+
+[Download Exe File](https://github.com/RecepTahirGunlu/MCTS-ile-Ultimate-Tic-Tac-Toe/blob/master/download%20exe/main.exe)
+
